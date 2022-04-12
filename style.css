@@ -210,7 +210,7 @@ menu-btn{
     width: 100vw;
     display: flex;
     align-items: center;
-    background:url(./cshop3.jpg) no-repeat;
+    background:url(cshop3.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
